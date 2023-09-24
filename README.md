@@ -20,8 +20,8 @@ This project is a backend system that allows users to save climate data, retriev
 **Prerequisites**
 Before you begin, ensure you have met the following requirements:
 
-Python 3.x installed
-Flask framework installed (pip install Flask)
+Python 3.x installed,
+Flask framework installed (pip install Flask),
 SQLite database set up
 
 **Installation**
